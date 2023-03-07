@@ -2,4 +2,4 @@
 Resume
 Resume using html
 
-click to visit website: 
+click to visit website: https://mamillashilpa.github.io/Resume/
